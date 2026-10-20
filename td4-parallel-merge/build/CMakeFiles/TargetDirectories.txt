@@ -1,0 +1,14 @@
+/home/thomas/Desktop/Faculdade/ama/td3/build/CMakeFiles/base.dir
+/home/thomas/Desktop/Faculdade/ama/td3/build/CMakeFiles/edit_cache.dir
+/home/thomas/Desktop/Faculdade/ama/td3/build/CMakeFiles/rebuild_cache.dir
+/home/thomas/Desktop/Faculdade/ama/td3/build/CMakeFiles/list_install_components.dir
+/home/thomas/Desktop/Faculdade/ama/td3/build/CMakeFiles/install.dir
+/home/thomas/Desktop/Faculdade/ama/td3/build/CMakeFiles/install/local.dir
+/home/thomas/Desktop/Faculdade/ama/td3/build/CMakeFiles/install/strip.dir
+/home/thomas/Desktop/Faculdade/ama/td3/build/OpenCL-ICD-Loader/CMakeFiles/OpenCL.dir
+/home/thomas/Desktop/Faculdade/ama/td3/build/OpenCL-ICD-Loader/CMakeFiles/edit_cache.dir
+/home/thomas/Desktop/Faculdade/ama/td3/build/OpenCL-ICD-Loader/CMakeFiles/rebuild_cache.dir
+/home/thomas/Desktop/Faculdade/ama/td3/build/OpenCL-ICD-Loader/CMakeFiles/list_install_components.dir
+/home/thomas/Desktop/Faculdade/ama/td3/build/OpenCL-ICD-Loader/CMakeFiles/install.dir
+/home/thomas/Desktop/Faculdade/ama/td3/build/OpenCL-ICD-Loader/CMakeFiles/install/local.dir
+/home/thomas/Desktop/Faculdade/ama/td3/build/OpenCL-ICD-Loader/CMakeFiles/install/strip.dir
